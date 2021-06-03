@@ -1,1 +1,1 @@
-# Hugo HTML only
+# Hugo
